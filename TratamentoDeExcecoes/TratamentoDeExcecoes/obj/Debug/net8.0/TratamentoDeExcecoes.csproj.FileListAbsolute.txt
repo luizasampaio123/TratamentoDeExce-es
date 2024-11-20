@@ -1,0 +1,14 @@
+C:\Users\Pichau\source\repos\TratamentoDeExcecoes\TratamentoDeExcecoes\bin\Debug\net8.0\TratamentoDeExcecoes.exe
+C:\Users\Pichau\source\repos\TratamentoDeExcecoes\TratamentoDeExcecoes\bin\Debug\net8.0\TratamentoDeExcecoes.deps.json
+C:\Users\Pichau\source\repos\TratamentoDeExcecoes\TratamentoDeExcecoes\bin\Debug\net8.0\TratamentoDeExcecoes.runtimeconfig.json
+C:\Users\Pichau\source\repos\TratamentoDeExcecoes\TratamentoDeExcecoes\bin\Debug\net8.0\TratamentoDeExcecoes.dll
+C:\Users\Pichau\source\repos\TratamentoDeExcecoes\TratamentoDeExcecoes\bin\Debug\net8.0\TratamentoDeExcecoes.pdb
+C:\Users\Pichau\source\repos\TratamentoDeExcecoes\TratamentoDeExcecoes\obj\Debug\net8.0\TratamentoDeExcecoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\source\repos\TratamentoDeExcecoes\TratamentoDeExcecoes\obj\Debug\net8.0\TratamentoDeExcecoes.AssemblyInfoInputs.cache
+C:\Users\Pichau\source\repos\TratamentoDeExcecoes\TratamentoDeExcecoes\obj\Debug\net8.0\TratamentoDeExcecoes.AssemblyInfo.cs
+C:\Users\Pichau\source\repos\TratamentoDeExcecoes\TratamentoDeExcecoes\obj\Debug\net8.0\TratamentoDeExcecoes.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\source\repos\TratamentoDeExcecoes\TratamentoDeExcecoes\obj\Debug\net8.0\TratamentoDeExcecoes.dll
+C:\Users\Pichau\source\repos\TratamentoDeExcecoes\TratamentoDeExcecoes\obj\Debug\net8.0\refint\TratamentoDeExcecoes.dll
+C:\Users\Pichau\source\repos\TratamentoDeExcecoes\TratamentoDeExcecoes\obj\Debug\net8.0\TratamentoDeExcecoes.pdb
+C:\Users\Pichau\source\repos\TratamentoDeExcecoes\TratamentoDeExcecoes\obj\Debug\net8.0\TratamentoDeExcecoes.genruntimeconfig.cache
+C:\Users\Pichau\source\repos\TratamentoDeExcecoes\TratamentoDeExcecoes\obj\Debug\net8.0\ref\TratamentoDeExcecoes.dll
